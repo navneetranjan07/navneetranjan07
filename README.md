@@ -57,10 +57,7 @@ I'm a passionate developer who loves turning ideas into scalable and efficient d
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/navneetranjan07)  
 - 🧑‍💻 [GitHub](https://github.com/navneetranjan07)  
-- 📧 Email: **navneetranjan.dev@gmail.com**  
+- 📧 Email: **navnitranjan919904@gmail.com**  
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House  
-
----
 
 ⭐ **Thanks for visiting my GitHub!** Feel free to explore my repositories and collaborate on exciting projects! 🚀
