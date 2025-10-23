@@ -1,15 +1,66 @@
-👋 Hello, I'm Navneet Ranjan, a passionate web developer with a knack for crafting elegant solutions in the digital space. My journey in coding began with a love for problem-solving, and it has since evolved into a full-fledged career in web development.
+# 👋 Hello, I'm Navneet Ranjan  
 
-💻 I specialize in building responsive and user-friendly websites and web applications using cutting-edge technologies such as HTML5, CSS3, JavaScript, and various frameworks like React.js.
+### 💻 Full Stack Java Developer | Backend Engineer | Tech Enthusiast  
 
-🚀 Whether it's creating dynamic interfaces, optimizing website performance, or solving complex technical challenges, I thrive on turning ideas into reality through clean, maintainable code. I'm constantly learning and staying up-to-date with the latest industry trends and best practices to deliver top-notch solutions.
+I'm a passionate developer who loves turning ideas into scalable and efficient digital solutions. My journey began with a curiosity for how things work on the web — and that curiosity has grown into a deep interest in **backend engineering** and **full-stack development**.
 
-🌟 Beyond coding, I'm deeply committed to fostering a collaborative and inclusive tech community. I actively contribute to open-source projects and enjoy sharing my knowledge through writing articles.
+---
 
-📫 Let's connect and collaborate! Feel free to explore my projects and drop me a message if you'd like to discuss ideas, collaborate on projects, or simply geek out about all things web development. Together, let's build the future of the web, one line of code at a time! 💻✨
+## 🚀 What I Do
 
+- 🧠 **Backend Development:** Building robust and maintainable backend systems using **Java**, **Spring Boot**, **Spring MVC**, **Spring Data JPA**, and **Hibernate**.  
+- 🌐 **API Design & Integration:** Creating and testing **RESTful APIs** with tools like **Postman**, focusing on performance, security, and scalability.  
+- ⚙️ **Frontend Development:** Designing interactive UIs with **React.js**, **JavaScript (ES6+)**, **HTML5**, **CSS3**, and **TailWind CSS** to deliver seamless user experiences.  
+- 🗄️ **Database Management:** Working with **MySQL**, and **SQL** for data modeling, optimization, and persistence.  
+- ☁️ **Deployment & Tools:** Familiar with **Vercel**, **Netlify**, **Render**, **GitHub Pages**, **Docker (basics)**, and version control with **Git & GitHub**.
 
-<!---
-navneetranjan07/navneetranjan07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+☕ Java | 💻 JavaScript | 🌐 HTML5 | 🎨 CSS3 | 🐍 SQL  
+
+**Frameworks & Tools:**  
+- Spring Boot | Spring MVC | Spring Data JPA | Hibernate  
+- React.js | Node.js (basic)  
+- Postman | IntelliJ IDEA | VS Code | Eclipse | Spring Tool Suite  
+- Git | GitHub | Maven | Docker (learning phase)
+
+---
+
+## 📈 Current Focus
+
+- Enhancing backend efficiency using **Spring Boot microservices**  
+- Exploring **JWT Authentication** & **Spring Security** for secure REST APIs  
+- Learning **Cloud Deployment** with AWS and Docker containers  
+- Building **scalable full-stack projects** integrating React + Spring Boot  
+
+---
+
+## 🌟 Featured Projects
+
+🔹 [Real-Time Chat App](https://github.com/navneetranjan07/realtime_chat_app) — A full-stack real-time chat platform with authentication, file sharing, and live typing indicators.  
+🔹 [Hospital Management System](https://github.com/navneetranjan07/hospital-management-backend) — A complete hospital management backend using Spring Boot and MySQL with REST APIs.  
+
+---
+
+## 🧩 Fun Facts
+
+- I enjoy debugging — it’s like solving mini puzzles every day. 🧠  
+- I love writing **clean, maintainable code** and optimizing systems for performance.  
+- Always exploring new frameworks and tools to stay ahead in tech. ⚡  
+
+---
+
+## 📫 Let’s Connect  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/navneetranjan07)  
+- 🧑‍💻 [GitHub](https://github.com/navneetranjan07)  
+- 📧 Email: **navneetranjan.dev@gmail.com**  
+
+> _“Code is like humor. When you have to explain it, it’s bad.”_ — Cory House  
+
+---
+
+⭐ **Thanks for visiting my GitHub!** Feel free to explore my repositories and collaborate on exciting projects! 🚀
